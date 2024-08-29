@@ -28,7 +28,7 @@ export default {
   width: 600px;
   height: 700px;
   background-color: #87ceeb;
-  margin: 75px;
+  margin: 75px auto;
   padding: 20px;
- }
+ } 
 </style>

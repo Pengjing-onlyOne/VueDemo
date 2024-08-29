@@ -1,6 +1,7 @@
 <template>
   <div class="hm_footer">
-    我是hm-footer
+    我是hm-footer,局部注册使用
+    <HmButton></HmButton>
   </div>
 </template>
 

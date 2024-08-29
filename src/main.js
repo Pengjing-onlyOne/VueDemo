@@ -1,6 +1,10 @@
 //导入Vue 核心包
 import Vue from 'vue'
 import App from './App.vue'
+import HmButton from './components/HmButton'
+
+//全局注册
+Vue.component('HmButton',HmButton)
 
 //提示当前处于什么环境
 Vue.config.productionTip = false

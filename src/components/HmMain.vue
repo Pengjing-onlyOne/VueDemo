@@ -1,6 +1,7 @@
 <template>
   <div class="Hm-main">
     我是Hm-main
+    <HmButton></HmButton>
   </div>
 </template>
 
@@ -14,6 +15,7 @@ export default {
  .Hm-main{
     /* width: 100px; */
     height: 300px;
+    line-height: 300px;
     color: white;
     text-align: center;
     align-content: center;
